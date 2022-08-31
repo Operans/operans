@@ -8,4 +8,4 @@
 
 ### Follow me
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColoe=B4068E)](https://www.instagram.com/kartanbaeev)
-[![Wk](https://img.shields.io/badge/-Wk-090909?style=for-the-badge&logo=wk&logoColoe=4B8BBE)](https://vk.com/id565310994)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColoe=4B8BBE)](https://vk.com/id565310994)
