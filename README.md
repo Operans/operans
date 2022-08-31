@@ -3,7 +3,8 @@
 ## I'm beginner Programmer
 
 ### Languages and Tools
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=F88C00)
+![Java](https://img.shields.io/badge/-java-090909?style=for-the-badge&logo=java&logoColor=F88C00)
+![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=4B8BBE)
 
 ### Follow me
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColoe=B4068E)](https://www.instagram.com/kartanbaeev)
