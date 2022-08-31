@@ -10,3 +10,4 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColoe=B4068E)](https://www.instagram.com/kartanbaeev)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColoe=4B8BBE)](https://vk.com/id565310994)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook&logoColoe=4B8BBE)](https://www.facebook.com/chingizk.kartanbaev.9/)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColoe=4B8BBE)](https://t.me/operans)
