@@ -5,8 +5,8 @@
 ### Languages and Tools
 ![Java](https://img.shields.io/badge/-java-090909?style=for-the-badge&logo=java&logoColor=F88C00)
 ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=4B8BBE)
-![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html&logoColor=FF8C00)
-![CSS](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css&logoColor=00BFFF)
+![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=Html&logoColor=FF8C00)
+![CSS](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=Css&logoColor=00BFFF)
 ![Figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma&logoColor=D200FA)
 
 ### Follow me
